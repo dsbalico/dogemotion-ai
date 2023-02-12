@@ -1,6 +1,6 @@
 <h1 align="center">Dog Emotion AI 🐶</h1>
 <p align="center">
-  <a href="https://dogemotion-ai.netlify.app/">https://dog-emotion-ai.netlify.app/</a> 
+  <a href="https://dogemotion-ai.netlify.app/">https://dogemotion-ai.netlify.app/</a> 
   <br /><br />
   <strong>Status:</strong> 
   <br />

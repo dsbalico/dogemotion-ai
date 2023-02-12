@@ -1,0 +1,27 @@
+{
+  "name": "ai-archive",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.2.1",
+    "preact": "^10.11.3",
+    "react-dropzone": "^14.2.3",
+    "react-router-dom": "^6.6.0",
+    "react-webcam": "^7.0.1"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.4.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "react-icons": "^4.7.1",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.0",
+    "vite-plugin-mkcert": "^1.10.1"
+  }
+}

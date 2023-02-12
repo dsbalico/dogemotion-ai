@@ -5,12 +5,12 @@
   <strong>Status:</strong> 
   <br />
   <a href="https://app.netlify.com/sites/dsbalico/deploys" target="_blank">
-		<img src="https://api.netlify.com/api/v1/badges/da608f40-26cb-48aa-910f-56fa61f39518/deploy-status" alt="Netlify Status" />
+		<img src="https://api.netlify.com/api/v1/badges/7861cdf5-8a0f-46e4-a572-c8309a08de38/deploy-status" alt="Netlify Status" />
 	</a>
 </p>
 
 ## 💁🏼 About
-This web application uses advanced machine learning to classify and recognize a range of emotions in dogs. It helps you understand and connect with your furry friend by providing insight into their emotions.
+This web application uses deep learning to classify and recognize a range of emotions in dogs. It helps you understand and connect with your furry friend by providing insight into their emotions.
 
 ### 💻 Technologies Used
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nodejs,netlify&perline=7" />
